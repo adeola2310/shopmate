@@ -1,0 +1,16 @@
+.header__wrapper{
+  width: 100%;
+  background-color: var(--primary-color);
+  color: var(--light-color);
+
+  &-details{
+    display: flex;
+    padding: 2rem;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &-logo{
+    font-size: var(--font-size-h1);
+    text-transform: uppercase;
+  }
+}
