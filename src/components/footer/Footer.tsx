@@ -18,6 +18,7 @@ const Footer = ()=>{
                 <Text className="footer__wrapper-p">women's wear</Text>
                 <Text className="footer__wrapper-p">men's wear</Text>
                 <Text className="footer__wrapper-p">a-z buy</Text>
+                <Text className="footer__wrapper-p">a-z buy</Text>
             </div>
             <div className="footer__wrapper-list">
                 <Title className="footer__wrapper-title">questions</Title>
